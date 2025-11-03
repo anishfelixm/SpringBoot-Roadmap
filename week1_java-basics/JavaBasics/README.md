@@ -8,4 +8,13 @@ JDK stands for Java Development Kit. JVM stands for Java Virtual Machine. It com
 
 ---
 
+## Variables
+
+They are placeholders for values that they hold and they behave as per their defined rules.
+E.g : String name = "Hello, world";
+
+What are the data types of variables?
+What is the difference between reference and primitive data types?
+How do we initialize the variables?
+
 ## Classes And Objects
