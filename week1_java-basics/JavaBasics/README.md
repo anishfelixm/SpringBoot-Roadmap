@@ -50,4 +50,12 @@ Math module has several methods related to mathematical operations like sqrt, ab
 Random Module has several methods related to random data generation for different data types.<br>
 [Practice Code](./src/RandomClass.java)
 
+## Conditionals
+
+There's several ways to run specific code snippets based of conditions that maybe true or false.
+
+How to create a if..else if..else block?<br>
+When to use the switch statement?<br>
+
+
 ## Classes And Objects
