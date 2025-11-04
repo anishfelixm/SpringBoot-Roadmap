@@ -54,8 +54,10 @@ Random Module has several methods related to random data generation for differen
 
 There's several ways to run specific code snippets based of conditions that maybe true or false.
 
+[Practice Code](./src/Conditionals.java)
+
 How to create a if..else if..else block?<br>
 When to use the switch statement?<br>
-
+What happens if we miss the "break" condition in switch block?
 
 ## Classes And Objects
