@@ -68,6 +68,7 @@ Loops are used to run code snippets till the final condition is reached.
 
 [Practice Code](./src/Loops.java)
 
-What is the difference between while loop and do while loop?<br>
+What is the difference between "while" loop and "do..while" loop?<br>
+Which are the conditions required for a "for" loop to function?<br>
 
 ## Classes And Objects
