@@ -43,4 +43,11 @@ How to create a simple input prompt box?
 How to deal with input of data belonging to different data types?
 How to display a message box?
 
+## Some Useful Modules
+
+Math module has several methods related to mathematical operations like sqrt, abs, ceil, floor, etc.
+[Practice Code](./src/MathClass.java)
+
+
+
 ## Classes And Objects
