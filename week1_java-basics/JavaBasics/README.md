@@ -18,7 +18,7 @@ What are the data types of variables?
 What is the difference between reference and primitive data types?
 How do we initialize the variables?
 
-## Input and Output
+## Input
 
 Scanner is a module provided for Input operations by the Java.util package. We can do different types of input operations using this.
 E.g:
@@ -28,5 +28,13 @@ E.g:
 How to create a scanner object?
 How to do input of different data types?
 What happens if you do a scanner.nextLine() after a scanner.nextInt()?
+
+## Simple GUI (Optional topic)
+
+JOptionPane is a package that allows us to make simple GUI (Graphical User Interface) applications. It is present in javax.swing library. A simple prompt popup and message popup can be created easily.
+
+How to create a simple input prompt box?
+How to deal with input of data belonging to different data types?
+How to display a message box?
 
 ## Classes And Objects
