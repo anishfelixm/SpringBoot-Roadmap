@@ -19,10 +19,18 @@ public class Loops {
         /*
          * Use case of for loop
          */
-        for (int i = 10; i >= 0; i -= 2) {
-            System.out.println(i);
+        System.out.print("Enter the # of rows: ");
+        int rows = Integer.parseInt(scanner.nextLine());
+        System.out.print("Enter the # of cols: ");
+        int cols = Integer.parseInt(scanner.nextLine());
+        System.out.print("Enter the symbol: ");
+        String symbol = scanner.next();
+        for (int i = 0; i < rows; i++) {
+            System.out.println();
+            for (int j = 0; j < cols; j++) {
+                System.out.print(symbol);
+            }
         }
-        System.out.println("Happy New Year!");
 
         scanner.close();
     }
