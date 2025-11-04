@@ -71,4 +71,16 @@ Loops are used to run code snippets till the final condition is reached.
 What is the difference between "while" loop and "do..while" loop?<br>
 Which are the conditions required for a "for" loop to function?<br>
 
+## Arrays
+
+Arrays are used to store multiple values of the same data type in a single variable.
+E.g:
+> String[] cars = {"Camaro",  "Tesla", "Ferrari"};
+
+[Practice Code](./src/Arrays.java)
+
+How can we create an array without initializing the values?<br>
+How to get the second element in an array of size 3?<br>
+How do we iterate over the array?<br>
+
 ## Classes And Objects

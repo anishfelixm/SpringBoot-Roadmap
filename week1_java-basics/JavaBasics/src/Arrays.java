@@ -1,0 +1,12 @@
+public class Arrays {
+    public static void main(String[] args) {
+        String[] cars = new String[3];
+        cars[0] = "Camaro";
+        cars[1] = "Tesla";
+        cars[2] = "Porsche";
+
+        for (int i = 0; i < cars.length; i++) {
+            System.out.println(cars[i]);
+        }
+    }
+}
