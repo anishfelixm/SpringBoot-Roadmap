@@ -47,7 +47,7 @@ How to display a message box?
 
 Math module has several methods related to mathematical operations like sqrt, abs, ceil, floor, etc.<br>
 [Practice Code](./src/MathClass.java)<br>
-
-
+Random Module has several methods related to random data generation for different data types.<br>
+[Practice Code](./src/RandomClass.java)
 
 ## Classes And Objects
