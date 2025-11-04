@@ -16,8 +16,8 @@ E.g:
 
 [Practice Code](./src/Variables.java)
 
-What are the data types of variables?
-What is the difference between reference and primitive data types?
+What are the data types of variables?<br>
+What is the difference between reference and primitive data types?<br>
 How do we initialize the variables?
 
 ## Input
@@ -29,8 +29,8 @@ E.g:
 
 [Practice Code](./src/InputAndOutput.java)
 
-How to create a scanner object?
-How to do input of different data types?
+How to create a scanner object?<br>
+How to do input of different data types?<br>
 What happens if you do a scanner.nextLine() after a scanner.nextInt()?
 
 ## Simple GUI (Optional topic)
@@ -39,14 +39,14 @@ JOptionPane is a package that allows us to make simple GUI (Graphical User Inter
 
 [Practice Code](./src/SimpleGUI.java)
 
-How to create a simple input prompt box?
-How to deal with input of data belonging to different data types?
+How to create a simple input prompt box?<br>
+How to deal with input of data belonging to different data types?<br>
 How to display a message box?
 
 ## Some Useful Modules
 
-Math module has several methods related to mathematical operations like sqrt, abs, ceil, floor, etc.
-[Practice Code](./src/MathClass.java)
+Math module has several methods related to mathematical operations like sqrt, abs, ceil, floor, etc.<br>
+[Practice Code](./src/MathClass.java)<br>
 
 
 
