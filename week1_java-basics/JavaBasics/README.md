@@ -58,6 +58,16 @@ There's several ways to run specific code snippets based of conditions that mayb
 
 How to create a if..else if..else block?<br>
 When to use the switch statement?<br>
-What happens if we miss the "break" condition in switch block?
+What happens if we miss the "break" condition in switch block?<br>
+Give the truth tables of the three logical operators?
+
+
+## Loops
+
+Loops are used to run code snippets till the final condition is reached.
+
+[Practice Code](./src/Loops.java)
+
+What is the difference between while loop and do while loop?<br>
 
 ## Classes And Objects
