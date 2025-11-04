@@ -15,6 +15,7 @@ E.g:
 > String name = "Hello, world";
 
 [Practice Code](./src/Variables.java)
+
 What are the data types of variables?
 What is the difference between reference and primitive data types?
 How do we initialize the variables?
@@ -27,6 +28,7 @@ E.g:
 > String name = scanner.nextLine();
 
 [Practice Code](./src/InputAndOutput.java)
+
 How to create a scanner object?
 How to do input of different data types?
 What happens if you do a scanner.nextLine() after a scanner.nextInt()?
@@ -36,6 +38,7 @@ What happens if you do a scanner.nextLine() after a scanner.nextInt()?
 JOptionPane is a package that allows us to make simple GUI (Graphical User Interface) applications. It is present in javax.swing library. A simple prompt popup and message popup can be created easily.
 
 [Practice Code](./src/SimpleGUI.java)
+
 How to create a simple input prompt box?
 How to deal with input of data belonging to different data types?
 How to display a message box?
