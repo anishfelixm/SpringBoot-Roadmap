@@ -106,11 +106,12 @@ E.g:
 
 Why use ArrayLists when there's arrays present in Java?<br>
 How do we iterate over an ArrayList 1) using normal for loop & 2) using for-each loop?<br>
-List the most important and simple methods of ArrayLists?<br>
+List the most important and simple methods of ArrayLists?
 
 ## Methods
 
 Methods are a block of code that's executed whenever they are called.
+Overloaded methods are methods sharing same name but different types (or number) of parameters.
 E.g: Main method.
 
 [Practice Code](./src/Methods.java)
@@ -120,5 +121,11 @@ What happens if we call a non-static method from a static method?<br>
 What's the difference between arguments and parameters?<br>
 Why do we need to specify the return type of method?<br>
 How do we recognise the scope of a local variable?<br>
+How does the ccode decide which overloaded method to choose?
 
-## Classes And Objects
+---
+
+### Checkpoint Code
+
+1. [Hello World program](./src/HelloWorld.java)
+2. [Sum of 2 Numbers Method](./src/SumOfTwoNumbers.java)
