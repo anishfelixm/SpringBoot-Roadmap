@@ -123,6 +123,11 @@ Why do we need to specify the return type of method?<br>
 How do we recognise the scope of a local variable?<br>
 How does the ccode decide which overloaded method to choose?
 
+## Miscellaneous 
+
+How can you use C language style formatted strings to be displayed in Java i.e printf()?<br>
+How can we make a variable value permanent/final after initializing some value to it?
+
 ---
 
 ### Checkpoint Code
