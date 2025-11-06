@@ -81,6 +81,6 @@ E.g:
 
 How can we create an array without initializing the values?<br>
 How to get the second element in an array of size 3?<br>
-How do we iterate over the array?<br>
+How do we iterate over a multi-dimensional array?<br>
 
 ## Classes And Objects
