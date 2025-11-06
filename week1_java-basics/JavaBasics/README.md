@@ -18,7 +18,8 @@ E.g:
 
 What are the data types of variables?<br>
 What is the difference between reference and primitive data types?<br>
-How do we initialize the variables?
+How do we initialize the variables?<br>
+Is String a reference variable or primitive data type?<br>
 
 ## Input
 
@@ -82,5 +83,29 @@ E.g:
 How can we create an array without initializing the values?<br>
 How to get the second element in an array of size 3?<br>
 How do we iterate over a multi-dimensional array?<br>
+
+## Wrapper Classes
+
+Wrapper classes provides a way to use primitive data types as reference data tyes (i.e Objects since they are passed as reference i.e their address is passed). This gives us several methods we can use. Also they can be used with Collections (like ArrayList). Java does automatic conversion of data type between primitive type and Wrapper class.
+E.g:
+> Integer a = 99;
+
+[Practice Code](./src/WrapperClasses.java)
+
+Which are the Wrapper classes for the primitive data types?<br>
+What is autoboxing and unboxing?<br>
+
+## ArrayList
+
+Arraylist is a collection. It's a type of resizable array. It's present in java.util. Elements can be dynamically added during runtime but they can only store reference data types.
+The for-each loop, also called enhanced for loop is a traversing technique to iterate over a collection like array. It's more readable and has less steps.
+E.g:
+> ArrayList<Integer> ranks = new ArrayList<Integer>();
+
+[Practice Code](./src/ArrayListClass.java)
+
+Why use ArrayLists when there's arrays present in Java?<br>
+How do we iterate over an ArrayList 1) using normal for loop & 2) using for-each loop?<br>
+List the most important and simple methods of ArrayLists?<br>
 
 ## Classes And Objects
