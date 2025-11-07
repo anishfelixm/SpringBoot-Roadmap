@@ -26,4 +26,15 @@ What happens if we create an instance of a class (like Random) inside a method (
 ---
 
 > toString() is a special method that all objects inherit. It returns a string that "textually" represents the object. It can be used implicitly and explicitly.<br>
-> 
+
+---
+
+## static keyword
+
+Static keyword is a modifier that can be applied to a variable, method or even a class. It ensured a single copy of the static part is maintained. Think of it as the Class (not the objects) "owns" the static member and the member is shared by all object instances created.
+
+[Practice Code](./src/StaticMembers.java)
+
+What happens when we change the value of a static member?<br>
+Why do we use the class name and not the object name to access static member? What happens if we use the object name?>br>
+
