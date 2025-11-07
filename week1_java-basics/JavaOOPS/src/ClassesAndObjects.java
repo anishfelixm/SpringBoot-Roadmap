@@ -1,14 +1,22 @@
 public class ClassesAndObjects {
     public static void main(String[] args) {
         Car car1 = new Car();
-        Car car2 = new Car();
 
+        /*
+         * without an overridden toString method defined, the object address will be displayed
+         */
+        System.out.println(car1.toString());
         System.out.println(car1.model);
         car1.drive();
 
         System.out.println();
 
-        System.out.println(car2.model);
-        car2.brake();
+        Human person1 = new Human("Morty", 22, 68.9);
+        Human person2 = new Human("Rick", 45);
+
+        System.out.println(person1.toString());
+        System.out.println(person2.toString());
+        person1.eat();
+        person2.drink();
     }
 }
