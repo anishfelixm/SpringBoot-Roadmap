@@ -15,6 +15,7 @@ Why do we need constructors?<br>
 When do we need to use the "this" keyword? And Why?<br>
 How can we create overloaded constructors?<br>
 How to create an array of objects?<br>
+Can an object be passed as a parameter to a method?
 
 ## Scope of a variable
 

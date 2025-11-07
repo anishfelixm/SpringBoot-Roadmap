@@ -1,6 +1,7 @@
 public class ClassesAndObjects {
     public static void main(String[] args) {
         Car car1 = new Car();
+        Garage garage = new Garage();
 
         /*
          * without an overridden toString method defined, the object address will be displayed
@@ -8,6 +9,7 @@ public class ClassesAndObjects {
         System.out.println(car1.toString());
         System.out.println(car1.model);
         car1.drive();
+        garage.park(car1);
 
         System.out.println();
 
