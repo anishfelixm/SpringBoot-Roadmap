@@ -14,8 +14,12 @@ public class ClassesAndObjects {
         Human person1 = new Human("Morty", 22, 68.9);
         Human person2 = new Human("Rick", 45);
 
+        Human[] people = new Human[2];
+        people[0] = person1;
+        people[1] = person2;
+
         System.out.println(person1.toString());
-        System.out.println(person2.toString());
+        System.out.println(people[1].toString());
         person1.eat();
         person2.drink();
     }
