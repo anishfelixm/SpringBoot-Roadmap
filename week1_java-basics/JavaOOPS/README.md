@@ -38,6 +38,12 @@ Static keyword is a modifier that can be applied to a variable, method or even a
 What happens when we change the value of a static member?<br>
 Why do we use the class name and not the object name to access static member? What happens if we use the object name?>br>
 
+## Inheritance
+
+
+
 ---
 
-## Practice Problems
+## Checkpoint Code
+
+1. [Car Class](./src/CarSourceFile.java)
