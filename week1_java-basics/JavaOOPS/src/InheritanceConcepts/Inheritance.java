@@ -1,5 +1,13 @@
 package InheritanceConcepts;
 
 public class Inheritance {
+    public static void main(String[] args) {
+        Car car = new Car();
+        Bicycle bike = new Bicycle();
 
+        car.go();
+        System.out.println("number of wheels: " + car.wheels);
+        bike.stop();
+        System.out.println("Number of pedals: " + bike.pedals);
+    }
 }
