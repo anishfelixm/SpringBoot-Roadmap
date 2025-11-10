@@ -1,13 +1,15 @@
-public class CarClass {
+package CheckPointCode;
+
+public class Car {
     String make;
     int year;
 
-    CarClass() {
+    Car() {
         this.make = "";
         this.year = 0;
     }
 
-    CarClass(String make, int year) {
+    Car(String make, int year) {
         this.make = make;
         this.year = year;
     }

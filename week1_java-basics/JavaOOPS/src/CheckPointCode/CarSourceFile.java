@@ -1,3 +1,5 @@
+package CheckPointCode;
+
 import java.util.Scanner;
 
 public class CarSourceFile {
@@ -8,13 +10,13 @@ public class CarSourceFile {
 
         System.out.println("Enter number of cars: ");
         n = Integer.parseInt(scanner.nextLine());
-        CarClass[] cars = new CarClass[n];
+        Car[] cars = new Car[n];
         for (int i = 0; i < n; i++) {
             System.out.println("Enter make of car: ");
             make = scanner.nextLine();
             System.out.println("Enter year of car: ");
             year = Integer.parseInt(scanner.nextLine());
-            CarClass car = new CarClass(make, year);
+            Car car = new Car(make, year);
             cars[i] = car;
         }
 

@@ -1,3 +1,5 @@
+package BasicClassConcepts;
+
 public class Friend {
     String name;
     static int noOfFriends = 0;

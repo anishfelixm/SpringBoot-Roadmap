@@ -7,7 +7,7 @@
 A Class is a template for creating objects. It has all properties and methods required for that Object to exist. An Object is an instance of a class and it contains attributes and methods.
 A constructor is a special methood that's called when an object is instantiated. This gives us the liberty to create custom objects.
 
-[Practice Code](./src/ClassesAndObjects.java)
+[Practice Code](./src/BasicClassConcepts/ClassesAndObjects.java)
 
 How can we create a class with attributes and methods?<br>
 How do we create objects of a particular class?<br>
@@ -33,17 +33,23 @@ What happens if we create an instance of a class (like Random) inside a method (
 
 Static keyword is a modifier that can be applied to a variable, method or even a class. It ensured a single copy of the static part is maintained. Think of it as the Class (not the objects) "owns" the static member and the member is shared by all object instances created.
 
-[Practice Code](./src/StaticMembers.java)
+[Practice Code](./src/BasicClassConcepts/StaticMembers.java)
 
 What happens when we change the value of a static member?<br>
 Why do we use the class name and not the object name to access static member? What happens if we use the object name?>br>
 
 ## Inheritance
 
+This is the process where one class acquires the attributes and methods of another class. The child class must "extend" the super/parent class to inherit its properties. The child classes can have their own individual methods and attributes.
+E.g:
+> public class car extends vehicle {}
 
+[Practice Code](./src/InheritanceConcepts/Inheritance.java)
+
+What is the syntax to inherit from another class?<br>
 
 ---
 
 ## Checkpoint Code
 
-1. [Car Class](./src/CarSourceFile.java)
+1. [Car Class](./src/CheckPointCode/CarSourceFile.java)

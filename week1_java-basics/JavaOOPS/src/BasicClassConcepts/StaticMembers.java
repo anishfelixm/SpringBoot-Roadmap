@@ -1,3 +1,5 @@
+package BasicClassConcepts;
+
 public class StaticMembers {
     public static void main(String[] args) {
         System.out.println(Friend.noOfFriends);
