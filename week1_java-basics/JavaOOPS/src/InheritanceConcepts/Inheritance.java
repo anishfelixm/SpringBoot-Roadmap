@@ -9,5 +9,14 @@ public class Inheritance {
         System.out.println("number of wheels: " + car.wheels);
         bike.stop();
         System.out.println("Number of pedals: " + bike.pedals);
+
+        System.out.println();
+        /*
+         * method overriding in show
+         */
+        Animal animal = new Animal();
+        animal.speak();
+        Dog dog = new Dog();
+        dog.speak();
     }
 }

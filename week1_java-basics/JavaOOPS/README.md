@@ -41,12 +41,14 @@ Why do we use the class name and not the object name to access static member? Wh
 ## Inheritance
 
 This is the process where one class acquires the attributes and methods of another class. The child class must "extend" the super/parent class to inherit its properties. The child classes can have their own individual methods and attributes.
+Method overriding is when a method is defined in subclass which is already defined in parent class, so that the child class can have it's own implementation of the method.
 E.g:
 > public class car extends vehicle {}
 
 [Practice Code](./src/InheritanceConcepts/Inheritance.java)
 
 What is the syntax to inherit from another class?<br>
+Why do we need method over-riding?<br>
 
 ---
 
