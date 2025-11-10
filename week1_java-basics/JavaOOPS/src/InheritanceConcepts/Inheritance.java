@@ -18,5 +18,12 @@ public class Inheritance {
         animal.speak();
         Dog dog = new Dog();
         dog.speak();
+
+        System.out.println();
+        /*
+         * Super keyword
+         */
+        Hero hero = new Hero("Batman", 44, "$$$");
+        System.out.println(hero.toString());
     }
 }
