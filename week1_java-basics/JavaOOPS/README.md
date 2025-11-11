@@ -52,6 +52,10 @@ What is the syntax to inherit from another class?<br>
 Why do we need method over-riding?<br>
 Why do we use super keyword?<br>
 
+## Abstraction
+
+
+
 ---
 
 ## Checkpoint Code
